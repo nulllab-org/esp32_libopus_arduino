@@ -32,7 +32,6 @@
 #include "arch.h"
 #include "entenc.h"
 #include "mfrngcod.h"
-
 /*A range encoder.
   See entdec.c and the references for implementation details \cite{Mar79,MNW98}.
 

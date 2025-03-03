@@ -49,6 +49,7 @@
 #ifdef ENABLE_DRED
 #include "dred_coding.h"
 #endif
+
 #ifdef FIXED_POINT
 #include "silk/fixed/structs_FIX.h"
 #else

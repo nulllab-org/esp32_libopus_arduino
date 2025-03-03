@@ -31,7 +31,9 @@
 
 #define ANALYSIS_C
 
+#ifdef MLP_TRAINING
 #include <stdio.h>
+#endif
 
 #include "celt/mathops.h"
 #include "celt/kiss_fft.h"
